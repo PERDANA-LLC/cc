@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls:*)",
+      "Bash(cat \"/Volumes/162TB/ClaudeCode/Wealth & Personal Finance/The W-2 Tax Rescue.md\")",
+      "Bash(node create-dashboard.js)",
+      "Bash(gcloud --version)",
+      "Bash(gh repo:*)",
+      "Bash(git stash:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
